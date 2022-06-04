@@ -1,1 +1,4 @@
-# Etherum-solidity
+# Glosarry
+- Swap
+- Spot
+- 
